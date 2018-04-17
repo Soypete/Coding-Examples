@@ -1,0 +1,11 @@
+﻿Build started 2/20/2015 1:35:18 AM.
+     1>Project "C:\Users\captainobody1\Documents\Visual Studio 2013\Projects\midtermtest2\midtermtest2\midtermtest2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\captainobody1\documents\visual studio 2013\projects\midtermtest2\midtermtest2\source.cpp(341): fatal error C1075: end of file found before the left brace '{' at 'c:\users\captainobody1\documents\visual studio 2013\projects\midtermtest2\midtermtest2\source.cpp(312)' was matched
+     1>Done Building Project "C:\Users\captainobody1\Documents\Visual Studio 2013\Projects\midtermtest2\midtermtest2\midtermtest2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.42

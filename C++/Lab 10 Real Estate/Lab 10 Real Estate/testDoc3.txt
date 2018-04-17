@@ -1,0 +1,7 @@
+Residential 0 200000 1 142 CS Blvd
+Commercial 0 1234567 1 0.20 350 Sea Towers
+Residential 1 533000 0 572 Random Road
+Commerical 23343.2 Wrong Way
+Residecial 0 1232 1 asdf 
+Commercial 0 12324214123 .333 1540 Paraguay
+Residential 1 100000 0 1234 Baltazar Brum

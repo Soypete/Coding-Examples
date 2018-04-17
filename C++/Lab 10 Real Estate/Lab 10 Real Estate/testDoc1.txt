@@ -1,0 +1,14 @@
+Residential 1 purple 0 129 Avatar Lane
+Residential 1 7339811 0 12 Frijoles Ave
+Commercial 0 fideos con tuco
+Residencial 0 598776 1  977 Rough Buddy Blvd
+Commercial 0 2995342 24 Juan Spikerman
+Residential 0 955322 1 5720 Juan Rosas
+Residential 1 20 1 23 Metal Bend
+Commercial 1 77890978 0 0.88 12 camino Carrasco
+Residential 0 266666 245 Bailamos Bachata
+Commercial 1 5133266 0 Badger Mole Court
+Residential 1 25000 1Cabbage Drive
+Hotman
+Hombre arrana
+bacon

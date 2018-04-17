@@ -1,0 +1,15 @@
+﻿Build started 2/20/2015 12:42:27 AM.
+     1>Project "C:\Users\captainobody1\Documents\Visual Studio 2013\Projects\midterm test\midterm test\midterm test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\captainobody1\documents\visual studio 2013\projects\midterm test\midterm test\source.cpp(97): error C2084: function 'bool isValidOption_YAHTZEE(int,int,int,int,int)' already has a body
+                 c:\users\captainobody1\documents\visual studio 2013\projects\midterm test\midterm test\source.cpp(6) : see previous definition of 'isValidOption_YAHTZEE'
+     1>c:\users\captainobody1\documents\visual studio 2013\projects\midterm test\midterm test\source.cpp(133): error C3861: 'isValidOption_YAHTZEE': identifier not found
+     1>c:\users\captainobody1\documents\visual studio 2013\projects\midterm test\midterm test\source.cpp(133): warning C4305: 'initializing' : truncation from 'bool (__cdecl *)(int,int,int,int,int)' to 'bool'
+     1>c:\users\captainobody1\documents\visual studio 2013\projects\midterm test\midterm test\source.cpp(133): warning C4800: 'bool (__cdecl *)(int,int,int,int,int)' : forcing value to bool 'true' or 'false' (performance warning)
+     1>Done Building Project "C:\Users\captainobody1\Documents\Visual Studio 2013\Projects\midterm test\midterm test\midterm test.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.02
